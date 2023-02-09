@@ -1,4 +1,11 @@
+body{
+  background-image: url("https://source.unsplash.com/random/?landscape");
+  background-size: cover;
+  height: 100vh;
+
+}
 .container {
   max-width: 1080px;
   margin: 20px auto;
+  
 }
